@@ -1,1 +1,5 @@
 Este es el primer texto que introducimos
+
+
+
+Texto distinto para el conflicto
